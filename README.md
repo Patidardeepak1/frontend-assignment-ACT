@@ -24,5 +24,3 @@ Design and develop a professional one-page website using React.js with the follo
 - 🎨 Tailwind CSS – Utility-first CSS for styling
 
 ---
-
-## 📂 Folder Structure
